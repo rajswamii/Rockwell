@@ -1,0 +1,52 @@
+Rockwell Automation Inc.
+
+
+Q1.#Problem Definations::
+
+1.Company was lagging behind to provide enough services to employees.
+Because of private cloud as comapny had that was insufficent to serve those 35000 employees at same time. 
+
+2.Company has to grow for more profits thats why it is trying to be spread all over the world.
+
+3.company want to,All the nations should know about the company.
+
+4.company does not say "No" to any customer or employee to work with organization.
+
+5.Relations with other nations and other nations people should be maintained.
+
+6.Rockwell wants to grow with all the products and services.
+
+7.With increase the genertion and will power of employee company has to move with new facilities thats helps employee in all manner.
+
+8.A private cloud will not able to serve all the nations and all the sectors.
+
+9.Private clould may be or may not be capable and robust than the google cloud or AWS.
+
+10.Private cloud has limited access and somtimes it will not able to provide all functionalities 
+that Amazon web server has or public google cloud has.
+
+
+
+Q2.#
+
+a.Functional Requirements:
+ 	Functional requirements of the Rockwell Automations are all employee needs to access their Human Resource solutions
+portal.Company is spreading in all over the world and growing in all sectors.Many nations can not allow the London based 
+private cloud for IT solutions.The main requirement is an cloud that is powerfull enough that can serve the all 35000 employee and 
+accordingly all the customers.Another one is that the new cloud platform does serve the Human resource and and all about the 
+benefits with thm.
+
+
+b.Non-functional requirements:
+	Non-Functional requirements includes security about that cloud platform,which serves more employees but is it secure enough and all
+scalability, The product or that cloud should be scalable. Avaliability of that cloud platform, it should be easily avaliable any time and any cost.
+funationalibility, does great role in non functional requirements that it shold function well with incrased employee strength.
+Robustness of same cloud platform is to be great that it will not hang or suspend at any situation.
+
+
+
+Q3.# Problem Statement::
+	As Rockwell Inc is using their private cloud for serving their employees and customers that is now a days not getting enough for growing number of
+employees in the Rockwell, thats why Rockwell decided to have the great application cloud that can serve those increased 35000 employees.and All the employees able to access their
+Human Resourse solutions portable and work efficiently.   
+ 
